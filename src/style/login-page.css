@@ -1,0 +1,35 @@
+.login-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.login-card {
+    /* border: 2px solid red; */
+    padding: 30px;
+    width: 350px;
+    text-align: center;
+    background-color: white;
+    border-radius: 60px;
+}
+
+.facebook {
+    background-color: #3b5998;
+}
+
+.google {
+    background-color: #4285f4;
+    color: white;
+}
+
+.login-btn {
+    cursor: pointer;
+    color: white;
+    padding: 12px;
+    border-radius: 8px;
+    display: inline-block;
+}
+.login-card > h1{
+    font-size: x-large;
+}

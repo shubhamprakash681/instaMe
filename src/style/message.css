@@ -1,0 +1,10 @@
+#msg-h-stack {
+    /* border: 1px solid red; */
+    background-color: rgba(189, 189, 189, 0.174);
+    width: 70%;
+    height: min-content;
+    padding: 0px 5px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    /* overflow-x: scroll; */
+}
